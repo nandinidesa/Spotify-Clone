@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "spotify-bff83",
+    "Spotify": "spotify-bff83"
+  },
+  "targets": {},
+  "etags": {}
+}
